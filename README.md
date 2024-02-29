@@ -1,4 +1,5 @@
 # Coffee_Shop_Sales_Analysis_Dashboard 
+## THEME >> This Dashboard is also based on Coffee colour theme.
 
 ## Problem Statement
 An analysis of coffee shop data where we have to find the Total sales,Revenue,Avg Order and Sale revenue for each months.
